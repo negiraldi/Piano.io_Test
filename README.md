@@ -5,3 +5,5 @@ Hi Piano team!
 
 Attached you'll find two folders, one for the script in JS and one for the script in Python, in both cases, I've deleted the fileC in order to be created when you run the scripts.
 
+Here an UML image of the desired methodology chosen for this scripts:
+![JS UML](https://github.com/negiraldi/Piano.io_Test/assets/37113465/cf4651e5-9f35-4304-a091-d7d8c4c1ea2e)
